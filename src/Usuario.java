@@ -61,7 +61,7 @@ public class Usuario {
           }
           System.out.println("O seu saldo é " + contaTerminal.getSaldo());
        }
-       System.out.println("yes");
+
        sc.close();
     }
 }
