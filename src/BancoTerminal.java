@@ -22,7 +22,7 @@ public void depositar(ContaTerminal conta, double valorSolicitado ){
     }else{
         System.out.println("Não é possivel o saque com esse valor solicitado");
     }
-
+    System.out.println("yes");
 }
 
 
